@@ -61,3 +61,21 @@ reports/figures/*.pdf
 
 # Logs
 *.log
+
+# Interim report and data files (excluded from GitHub)
+INTERIM_REPORT.md
+INTERIM_REPORT.html
+INTERIM_REPORT.pdf
+data_enrichment_log.md
+*.xlsx
+Additional\ Data\ Points\ Guide.xlsx
+10\ Academy\ -\ KAIM\ 9\ -\ Week\ 11.pdf
+pdf_content.txt
+read_pdf.py
+check_sheets.py
+copy_files.py
+setup_structure.py
+init_git.py
+convert_to_pdf.py
+explore_data.py
+enrich_data.py
